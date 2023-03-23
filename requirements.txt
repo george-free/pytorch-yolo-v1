@@ -1,0 +1,20 @@
+# TODO: Update with exact module version
+numpy==1.21.5
+opencv_python==4.7.0.68
+protobuf==3.20.3
+Pillow==9.4.0
+loguru
+tqdm
+thop
+ninja
+tabulate
+psutil
+tensorboard
+
+# verified versions
+# pycocotools corresponds to https://github.com/ppwwyyxx/cocoapi
+pycocotools>=2.0.2
+onnx==1.13.0
+onnx-simplifier==0.4.10
+torch==1.8.1
+torchvision==0.9.1
